@@ -29,7 +29,7 @@ src/Tool.pro.user
 *.pyc
 
 # CUDD stuff
-lib/cudd-2.5.0/*
+#lib/cudd-2.5.0/*
 
 # Doxygen generated stuff
 src/html/*
