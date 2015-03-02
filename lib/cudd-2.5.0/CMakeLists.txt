@@ -14,3 +14,6 @@ add_subdirectory(epd)
 add_subdirectory(dddmp)
 add_subdirectory(cudd)
 add_subdirectory(obj)
+
+# Extras
+# target_include_directories(cudd PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
