@@ -1,0 +1,1 @@
+#TODO: Port SLUGS' qmake to cmake
