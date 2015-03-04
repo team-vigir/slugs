@@ -4,6 +4,7 @@
 *.o
 src/slugs
 lib/cudd-2.5.0/obj/testobj
+lib/cudd-2.5.0/nanotrav/nanotrav
 
 # Compiled Dynamic libraries
 *.so
