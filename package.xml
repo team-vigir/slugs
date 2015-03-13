@@ -1,0 +1,24 @@
+<package>
+  <name>slugs</name>
+  <version>1.0.0</version>
+  <description>
+     This is a Catkinized, CMake port of the "SmalL bUt Complete GROne Synthesizer" (SLUGS)
+     SLUGS is a stand-alone reactive synthesis tool for generalized reactivity(1) synthesis.
+     
+     Copyright (c) 2013, Ruediger Ehlers, Vasumathi Raman, and Cameron Finucane
+     All rights reserved.
+
+     See LICENSE.txt
+  </description>
+  <maintainer email="sm2296@cornell.edu">Spyros Maniatopoulos</maintainer>
+  <license>BSD</license>
+
+  <author>Spyros Maniatopoulos</author>
+
+  <!-- <buildtool_depend>catkin</buildtool_depend> -->
+
+  <!-- <export>
+    <build_type>cmake</build_type>
+  </export> -->
+
+</package>
